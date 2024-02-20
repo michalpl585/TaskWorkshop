@@ -1,7 +1,7 @@
-### TaskWorkshop
+# TaskWorkshop
 *Prosty program do zarządzania Twoimi zadaniami.*
 
-# Funkcje
+## Funkcje
 wyświetlanie wszystkich dostępnych zadań,
 wyjście z aplikacji,
 dodanie zadania,
@@ -10,7 +10,7 @@ wczytywanie danych z pliku przy starcie aplikacji,
 zapis danych do pliku,
 sprawdzanie poprawność wartości liczbowej podczas usuwania.
 
-# Komendy
+## Komendy
 - add - dodawanie nowego zadania,
 - list - wyświetlanie listy zadań,
 - remove - usuwanie zadania,
